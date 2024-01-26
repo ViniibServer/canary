@@ -1,7 +1,7 @@
 local config = {
 	[653] = { "orc warrior", "pirate cutthroat", "dworc voodoomaster", "dwarf guard", "minotaur mage", "ogre shaman", "ogre brute", "rat" }, -- common
-	[655] = { "serpent spawn", "demon", "juggernaut", "behemoth", "ashmunrah", "vexclaw", "grimeleech", "hellflayer", "black sheep" }, -- uncommon
-	[654] = { "quara hydromancer", "diabolic imp", "banshee", "frost giant", "lich", "vexclaw", "grimeleech", "hellflayer", "ogre shaman", "ogre brute", "pig" }, -- deluxe
+	[655] = { "serpent spawn", "demon", "juggernaut", "behemoth", "ashmunrah", "vexclaw", "grimeleech", "hellflayer", "black sheep" }, -- deluxe
+	[654] = { "quara hydromancer", "diabolic imp", "banshee", "frost giant", "lich", "vexclaw", "grimeleech", "hellflayer", "ogre shaman", "ogre brute", "pig" }, -- uncommon
 	[24949] = { "old beholder", "old bug", "old wolf", "old giant spider" }, -- old
 }
 
